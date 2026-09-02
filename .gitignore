@@ -1,0 +1,25 @@
+# Credentials and private configuration
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+credentials*.json
+secrets*.json
+
+# Local and generated material
+dist/*.zip
+generated/
+previews/
+artifacts/
+research-import/
+x-poster*/
+__pycache__/
+*.pyc
+
+# Editor and OS noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

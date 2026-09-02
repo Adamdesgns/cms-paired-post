@@ -1,0 +1,10 @@
+SUPERVISED TEST FIXTURE — FICTIONAL SOURCE DATA
+
+Actor: Redwood Compute
+Claim status: Proposed; not approved or guaranteed
+Offer: $12,500 to each eligible Pine Creek, Pennsylvania household
+Payment condition: After the first data-center building receives a certificate of occupancy
+Projected timing: Late 2028
+Eligibility details: Not yet published
+
+This file is source data for a draft-only formatting and truthfulness test. It is not a real news report and does not authorize publishing.
